@@ -26,9 +26,10 @@ Introducing DriveClone, the cutting-edge Google Drive clone app designed to revo
 3. JavaScript
 4. React
 5. Bootstrap
-6. Google Firestore
-7. Firebase Storage
-8. GitHub
-9. netlify
+6. Firebase Authentication
+7. Google Firestore
+8. Firebase Storage
+9. GitHub
+10. netlify
 
 
