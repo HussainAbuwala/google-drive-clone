@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# DriveClone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introducing DriveClone, the cutting-edge Google Drive clone app designed to revolutionize your digital storage experience.
 
-## Available Scripts
+![Screen Recording 2023-09-20 at 11 39 32 PM](https://github.com/HussainAbuwala/google-drive-clone/assets/77569166/3b2e1f89-f8b9-4418-8d31-f38b424b4a06)
 
-In the project directory, you can run:
+# Features
 
-### `npm start`
+1. **Sign Up and Login with Ease**: DriveClone ensures a hassle-free onboarding process. Create your account and log in securely to access your personal cloud storage.
+2. **Organize Your Digital Life**: Take control of your files and folders. DriveClone empowers you to create, and organize folders, allowing you to structure your digital world exactly how you want it.
+3. **Swift File Uploads**: DriveClone boasts a blazing-fast file upload feature, with a real-time progress bar to keep you informed of the upload status. No more guesswork!
+4. **Intuitive Navigation**: Navigate effortlessly through your folders and files with an intuitive interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository: `git clone https://github.com/HussainAbuwala/google-drive-clone.git`
+2. Navigate to the project directory: `cd google-drive-clone`
+3. Install the client dependencies: `npm install`
+4. Start the client: `npm start`
+5. Set the appropriate environment variables for the firebase API keys.
 
-### `npm test`
+## Tools & Languages Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. HTML5
+2. CSS3
+3. JavaScript
+4. React
+5. Bootstrap
+6. Google Firestore
+7. Firebase Storage
+8. GitHub
+9. netlify
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
